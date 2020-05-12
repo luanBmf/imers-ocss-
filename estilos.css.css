@@ -1,0 +1,37 @@
+body {
+    background-image:url('https://neilpatel.com/wp-content/uploads/2017/08/colors.jpg');
+  background-size: 200vh
+  }
+  
+  .menu {
+    background: blue;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu Li {
+  
+    list-style: none;
+  }
+  
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    text-align: center;
+    color:whitesmoke;
+  }
+  
+  .site-subtitle{
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
